@@ -1,2 +1,2 @@
-input - "eur, uah"
-output - json file
+Input - "eur, uah";
+Output - json file.
